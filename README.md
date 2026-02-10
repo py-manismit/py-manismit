@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a beginner Python developer learning by building small projects.
+
+- 🐍 Learning Python
+- 🌱 Exploring open source
+- 🚀 Goal: contribute to Gitcoin bounties
 <!--
 **py-manismit/py-manismit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
